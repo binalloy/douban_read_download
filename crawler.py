@@ -253,6 +253,6 @@ def main():
 
 if __name__ == '__main__':
     # analyse_article('log.txt')
-    compose_article_txt('十恶胡作 - 暴力仓鼠.txt')
-    compose_article_md('十恶胡作 - 暴力仓鼠.md')
-    # main()
+    # compose_article_txt('十恶胡作 - 暴力仓鼠.txt')
+    # compose_article_md('十恶胡作 - 暴力仓鼠.md')
+    main()
